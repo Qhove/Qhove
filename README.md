@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=Qhove&theme=dracula&hide_border=false)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Qhove&" alt="qhove" /></p>
 
 ---
 
