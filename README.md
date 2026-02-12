@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qhove&label=Profile%20views&color=0e75b6&style=flat" alt="qhove" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qhove" alt="qhove" /></a> </p>
 
 - 🔭 I’m currently working on [iZanix MultiTools](https://tools.izanix.com/)
 
